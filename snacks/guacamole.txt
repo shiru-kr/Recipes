@@ -1,13 +1,15 @@
-Ingridients:
+Ingredients:
 - avocados
 - onions
 - cilantro
 - salt
 - lime
+- tomatoes
 
 Instructions:
 1. mash avocados
 2. chop onions
 3. chop cilantro
-4. squeeze lime
-5. mix everything together
+4. chop tomatoes
+5. squeeze lime
+6. mix everything together
